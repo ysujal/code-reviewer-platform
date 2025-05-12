@@ -35,13 +35,13 @@ cd code-reviewer
 cd backend
 npm install
 cp .env.example .env
-# Edit .env to include your environment variables
+
 npm run dev
 3. Set Up the Frontend
 cd ../frontend
 npm install
 cp .env.example .env
-# Edit .env to include your environment variables
+
 npm run dev
 4. Access the Application
 Frontend: Open your browser and go to http://localhost:5173 to access the user interface.
